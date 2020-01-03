@@ -4,18 +4,14 @@ body {
   line-height: 1;
 }
 
-textarea{
-  background: teal;
+.textarea{
   border: none;
-  resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  width: 700px;
 }
 
-textarea::placeholder{
-    color: darkblue;
-}
 
 
 .jumbotron {
@@ -51,17 +47,17 @@ textarea::placeholder{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: gray;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #1f9c00;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #fab217;
   color: white;
 }
 
@@ -71,6 +67,8 @@ textarea::placeholder{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  position: relative;
+  left: 0px;
 }
 
 .saveBtn i:hover {
