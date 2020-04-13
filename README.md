@@ -9,7 +9,7 @@ Type an event into the corresponding time of day and push the "pin" button to sa
 
 ## Built with:
 * [HTML](https://html.com)
-* [CSS](https://www.w3schools.com › css)
+* [CSS](https://www.w3schools.com/Css)
 * [Javascript](https://www.javascript.com)
 * [Momentjs](https://momentjs.com)
 
